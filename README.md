@@ -9,7 +9,7 @@
 
 </div>
 
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm[Sanyam](https://github.com/sanyamdtu)
+# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Sanyam](https://github.com/sanyamdtu)
 
 <br />
 
