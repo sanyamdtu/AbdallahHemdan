@@ -9,8 +9,7 @@
 
 </div>
 
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm
-[Sanyam](https://github.com/sanyamdtu)
+# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm[Sanyam](https://github.com/sanyamdtu)
 
 <br />
 
@@ -79,7 +78,10 @@ I will be happy to help
         alt="bootstrap" width="40" height="40" />
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-    ![Anurag's github
-    stats](https://github-readme-stats.vercel.app/api?username=sanyamdtu&show_icons=true&theme=radical)
+    
+   
+  
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanyamdtu&show_icons=true&theme=radical)
 
 </div>
